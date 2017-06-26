@@ -33,9 +33,9 @@ _None known_
 _Caleb Paul: @calebpaulmusic_
 
 ### Technologies Used
-_Node_
-_Express_
-_MongoDB_
+* _Node_
+* _Express_
+* _MongoDB_
 
 ### License
 *This is licensed under the GPL license.*
