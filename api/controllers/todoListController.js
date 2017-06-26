@@ -1,3 +1,4 @@
+/*jslint node: true */
 'use strict';
 
 var mongoose = require('mongoose'),
@@ -9,7 +10,7 @@ exports.list_all_tasks = function(req, res) {
     res.send(err);
     res.json(task);
   });
-}
+};
 
 
 exports.create_a_task = function(req, res) {
